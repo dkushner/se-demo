@@ -1,7 +1,7 @@
 #include "arrays.h"
 
 int main()
-{
+
 	const int size = 100;
 	int array[size];
 	fill_array(array, size);
